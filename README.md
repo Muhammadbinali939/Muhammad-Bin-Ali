@@ -65,12 +65,12 @@
 
 <!-- Skills List -->
 <ul>
-   <li><strong>Python:</strong></li>
+   <li><strong>Python</strong></li>
   <li><strong>Machine Learning:</strong> Regression, Classification, Clustering, Neural Networks</li>
   <li><strong>Deep Learning:</strong> Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN)</li>
    <li><strong>Tableau:</strong> Data Visualization</li>
-   <li><strong>PostgreSQL:</strong> </li>
-   <li><strong>MS Excel:</strong></li>
+   <li><strong>PostgreSQL</strong> </li>
+   <li><strong>MS Excel</strong></li>
   <li><strong>Data Analysis:</strong> Exploratory Data Analysis (EDA), Feature Engineering</li>
   <li><strong>Tools:</strong> Jupyter Notebooks, VS Code, Git</li>
 </ul>
