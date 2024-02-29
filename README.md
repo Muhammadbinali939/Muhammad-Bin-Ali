@@ -67,7 +67,7 @@
 <ul>
    <li><strong>Python</strong></li>
   <li><strong>Machine Learning:</strong> Regression, Classification, Clustering, Time Series, Recommendation System</li>
-  <li><strong>Deep Learning:</strong> Artifitial Neural Network(ANN), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN)</li>
+  <li><strong>Deep Learning:</strong> Artifitial Neural Networks (ANN), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN)</li>
    <li><strong>Tableau:</strong> Data Visualization</li>
    <li><strong>PostgreSQL</strong> </li>
    <li><strong>MS Excel</strong></li>
