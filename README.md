@@ -109,14 +109,14 @@
 <h2>Connect with Me</h2>
 
 <p>
-  <a href="www.linkedin.com/in/muhammad-bin-ali-79785b285">LinkedIn</a> | 
+  <a href="https://www.linkedin.com/in/muhammad-bin-ali-79785b285/">LinkedIn</a> | 
 </p>
 
 <!-- Contact Section -->
 <h2>Contact</h2>
 
 <p>
-  Feel free to reach out to me at <a href="saudyafai420@gmail.com">your.email@example.com</a> for collaboration or opportunities.
+  Feel free to reach out to me at <a href="saudyafai420@gmail.com">saudyafai420@gmail.com</a> for collaboration or opportunities.
 </p>
 
 <!-- Footer Section -->
