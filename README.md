@@ -66,8 +66,8 @@
 <!-- Skills List -->
 <ul>
    <li><strong>Python</strong></li>
-  <li><strong>Machine Learning:</strong> Regression, Classification, Clustering, Neural Networks</li>
-  <li><strong>Deep Learning:</strong> Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN)</li>
+  <li><strong>Machine Learning:</strong> Regression, Classification, Clustering, Time Series, Recommendation System</li>
+  <li><strong>Deep Learning:</strong> Artifitial Neural Network(ANN), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN)</li>
    <li><strong>Tableau:</strong> Data Visualization</li>
    <li><strong>PostgreSQL</strong> </li>
    <li><strong>MS Excel</strong></li>
@@ -79,30 +79,30 @@
 <h2>Education</h2>
 
 <p>
-  <strong>Computer Science Engineer, Osmania University, [2019-2023]</strong>
+  <strong>Computer Science Engineer, Osmania University, (2019-2023)</strong>
 </p>
 
 <!-- Certifications Section -->
 <h2>Certifications</h2>
 
 <p>
-  <strong>Certified by "IBM" in Python For Data Science, [Dec,2023]</strong>
+  <strong>Certified by "IBM" in Python For Data Science, (Dec,2023)</strong>
 </p>
 
 <p>
-  <strong>Certified by "Simplilearn" in Data Science Masters Program, [Dec,2023]</strong>
+  <strong>Certified by "Simplilearn" in Data Science Masters Program, (Dec,2023)</strong>
 </p>
 <p>
-  <strong>Certified by "Simplilearn" in Python, [April,2023]</strong>
+  <strong>Certified by "Simplilearn" in Python, (April,2023)</strong>
 </p>
 <p>
-  <strong>Certified by "Simplilearn" in Machine Learning, [May,2023]</strong>
+  <strong>Certified by "Simplilearn" in Machine Learning, (May,2023)</strong>
 </p>
 <p>
-  <strong>Certified by "Simplilearn" in Deep Learning, [Aug,2023]</strong>
+  <strong>Certified by "Simplilearn" in Deep Learning, (Aug,2023)</strong>
 </p>
 <p>
-  <strong>Certified by "Simplilearn" in Tableau, [July,2023]</strong>
+  <strong>Certified by "Simplilearn" in Tableau, (July,2023)</strong>
 </p>
 
 <!-- Connect Section -->
