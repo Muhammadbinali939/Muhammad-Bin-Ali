@@ -82,23 +82,23 @@
 <h2>Certifications</h2>
 
 <p>
-  <strong>Certified [Python For Data Science], [IBM], [Dec,2023]</strong>
+  <strong>Certified by "IBM" in Python For Data Science, [Dec,2023]</strong>
 </p>
 
 <p>
-  <strong>Certified [Data Science Masters Program], [Simplilearn], [Dec,2023]</strong>
+  <strong>Certified by "Simplilearn" in Data Science Masters Program, [Dec,2023]</strong>
 </p>
 <p>
-  <strong>Certified [Python], [Simplilearn], [April,2023]</strong>
+  <strong>Certified by "Simplilearn" in Python, [April,2023]</strong>
 </p>
 <p>
-  <strong>Certified [Machine Learning], [Simplilearn], [May,2023]</strong>
+  <strong>Certified by "Simplilearn" in Machine Learning, [May,2023]</strong>
 </p>
 <p>
-  <strong>Certified [Deep Learning], [Simplilearn], [Aug,2023]</strong>
+  <strong>Certified by "Simplilearn" in Deep Learning, [Aug,2023]</strong>
 </p>
 <p>
-  <strong>Certified [Tableau], [Simplilearn], [July,2023]</strong>
+  <strong>Certified by "Simplilearn" in Tableau, [July,2023]</strong>
 </p>
 
 <!-- Connect Section -->
