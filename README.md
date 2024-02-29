@@ -120,4 +120,4 @@
 </p>
 
 <!-- Footer Section -->
-<p align="center">Happy coding! 🚀</p>
+<p align="center">Thanks for watching! 🚀</p>
