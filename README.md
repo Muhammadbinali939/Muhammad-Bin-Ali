@@ -150,6 +150,52 @@
   <a href="https://github.com/Muhammadbinali939/LSTM-MODEL">Link to the project repository</a>
 </p>
 
+<!-- Project 9 -->
+<h3>Project 9: Recomendation-System</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/Recommendation-System">Link to the project repository</a>
+</p>
+
+<!-- Project 10 -->
+<h3>Project 10: Time-Series</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/Time-Series">Link to the project repository</a>
+</p>
+
+<!-- Project 11 -->
+<h3>Project 11: Time-Series-on-sales-dataset</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/Time-Series2">Link to the project repository</a>
+</p>
+
+
 <!-- Skills Section -->
 <h2>Skills</h2>
 
