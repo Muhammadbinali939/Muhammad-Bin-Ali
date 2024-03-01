@@ -46,7 +46,67 @@
 </p>
 
 <!-- Project 2 -->
-<h3>Project 2: LSTM-MODEL</h3>
+<h3>Project 2: OpenAI-API</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, scikit-learn, Tableau
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/OpenAI-API">Link to the project repository</a>
+</p>
+
+<!-- Project 3 -->
+<h3>Project 3: LangChain</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, scikit-learn, Tableau
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/LangChain">Link to the project repository</a>
+</p>
+
+<!-- Project 4 -->
+<h3>Project 4: Evidently-AI</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, scikit-learn, Tableau
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/Evidently-AI">Link to the project repository</a>
+</p>
+
+<!-- Project 5 -->
+<h3>Project 5:ANN-Regression</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, scikit-learn, Tableau
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/ANN-Regression-MODEL">Link to the project repository</a>
+</p>
+
+<!-- Project 6 -->
+<h3>Project 6: ANN-Classification</h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
@@ -57,7 +117,37 @@
 </p>
 
 <p>
-  <a href="https://github.com/Muhammadbinali939/LSTM-MODEL1">Link to the project repository</a>
+  <a href="https://github.com/Muhammadbinali939/ANN-Classification-Model">Link to the project repository</a>
+</p>
+
+<!-- Project 7 -->
+<h3>Project 7: CNN-Model</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/CNN-MODEL">Link to the project repository</a>
+</p>
+
+<!-- Project 8 -->
+<h3>Project 8: LSTM-MODEL</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/LSTM-MODEL">Link to the project repository</a>
 </p>
 
 <!-- Skills Section -->
