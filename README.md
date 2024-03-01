@@ -328,6 +328,7 @@
    <li><strong>Tableau:</strong> Data Visualization</li>
    <li><strong>PostgreSQL</strong> </li>
    <li><strong>MS Excel</strong></li>
+    <li><strong>Statistical Analysis</strong></li>
   <li><strong>Data Analysis:</strong> Exploratory Data Analysis (EDA), Feature Engineering</li>
   <li><strong>Tools:</strong> Jupyter Notebooks, VS Code, Git</li>
 </ul>
