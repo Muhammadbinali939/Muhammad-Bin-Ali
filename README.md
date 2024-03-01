@@ -90,7 +90,10 @@
   <a href="https://github.com/Muhammadbinali939/Evidently-AI">Link to the project repository</a>
 </p>
 
+
 <h2>Deep Learning Projects</h2>
+
+
 
 <!-- Project 5 -->
 <h3>Project 5:ANN-Regression</h3>
@@ -152,7 +155,11 @@
   <a href="https://github.com/Muhammadbinali939/LSTM-MODEL">Link to the project repository</a>
 </p>
 
+
+
 <h2>Machine Learning Projects</h2>
+
+
 
 <!-- Project 9 -->
 <h3>Project 9: Recomendation-System</h3>
