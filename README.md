@@ -90,7 +90,7 @@
   <a href="https://github.com/Muhammadbinali939/Evidently-AI">Link to the project repository</a>
 </p>
 
-<h2>Deep Learning Projectsp</h2>
+<h2>Deep Learning Projects</h2>
 
 <!-- Project 5 -->
 <h3>Project 5:ANN-Regression</h3>
