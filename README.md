@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Python_for_iOS_App_Icon.png" alt="Python" width="50" height="50"/>
-  <img src="https://www.whizlabs.com/blog/wp-content/uploads/2019/03/google-cloud-machine-learning-2.png" alt="Machine Learning" width="50" height="50"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif?format=1500w" alt="Machine Learning" width="50" height="50"/>
   <img src="https://www.cecs.ucf.edu/human-centered-ai/wp-content/uploads/deep-learning.jpg" alt="Deep Learning" width="50" height="50"/>
   <img src="https://i0.wp.com/idsc.miami.edu/wp-content/uploads/2015/01/Tableau-Training.png?w=940&ssl=1" alt="Tableau" width="50" height="50"/>
   <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F02y9di5fv01kmal98pfo.jpeg" alt="PostgreSQL" width="50" height="50"/>
@@ -194,6 +194,127 @@
 <p>
   <a href="https://github.com/Muhammadbinali939/Time-Series2">Link to the project repository</a>
 </p>
+
+<!-- Project 12 -->
+<h3>Project 12: KMeans-Clustering</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/KMeans-Clustering">Link to the project repository</a>
+</p>
+
+<!-- Project 13 -->
+<h3>Project 13: Hierarchical-Clustering </h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/Hierarchical-Clustering">Link to the project repository</a>
+</p>
+
+<!-- Project 14 -->
+<h3>Project 14: Boosting-Classifier</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/Boosting-Classifier">Link to the project repository</a>
+</p>
+
+<!-- Project 15 -->
+<h3>Project 15: RandomForest-Classifier</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/RandomForest-Classifier">Link to the project repository</a>
+</p>
+
+<!-- Project 16 -->
+<h3>Project 16: DecisionTree-Classifier</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/DecisionTree-Classifier">Link to the project repository</a>
+</p>
+
+<!-- Project 17 -->
+<h3>Project 17: Support-Vector-Machine-SVM</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/Support-Vector-Machine-SVM">Link to the project repository</a>
+</p>
+
+<!-- Project 18 -->
+<h3>Project 18: Naive-Bayes</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/Naive-Bayes">Link to the project repository</a>
+</p>
+
+<!-- Project 19 -->
+<h3>Project 19: Logistic-Regression</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/Logistic-Regression">Link to the project repository</a>
+</p>
+
 
 
 <!-- Skills Section -->
