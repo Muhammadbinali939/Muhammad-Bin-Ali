@@ -159,10 +159,8 @@
 
 <h2>Machine Learning Projects</h2>
 
-
-
 <!-- Project 9 -->
-<h3>Project 9: Recomendation-System</h3>
+<h3>Project 9: Logistic-Regression</h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
@@ -173,11 +171,11 @@
 </p>
 
 <p>
-  <a href="https://github.com/Muhammadbinali939/Recommendation-System">Link to the project repository</a>
+  <a href="https://github.com/Muhammadbinali939/Logistic-Regression">Link to the project repository</a>
 </p>
 
 <!-- Project 10 -->
-<h3>Project 10: Time-Series</h3>
+<h3>Project 10: Naive-Bayes</h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
@@ -188,11 +186,11 @@
 </p>
 
 <p>
-  <a href="https://github.com/Muhammadbinali939/Time-Series">Link to the project repository</a>
+  <a href="https://github.com/Muhammadbinali939/Naive-Bayes">Link to the project repository</a>
 </p>
 
 <!-- Project 11 -->
-<h3>Project 11: Time-Series-on-sales-dataset</h3>
+<h3>Project 11: Support-Vector-Machine-SVM</h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
@@ -203,11 +201,10 @@
 </p>
 
 <p>
-  <a href="https://github.com/Muhammadbinali939/Time-Series2">Link to the project repository</a>
+  <a href="https://github.com/Muhammadbinali939/Support-Vector-Machine-SVM">Link to the project repository</a>
 </p>
-
 <!-- Project 12 -->
-<h3>Project 12: KMeans-Clustering</h3>
+<h3>Project 12: DecisionTree-Classifier</h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
@@ -218,11 +215,11 @@
 </p>
 
 <p>
-  <a href="https://github.com/Muhammadbinali939/KMeans-Clustering">Link to the project repository</a>
+  <a href="https://github.com/Muhammadbinali939/DecisionTree-Classifier">Link to the project repository</a>
 </p>
 
 <!-- Project 13 -->
-<h3>Project 13: Hierarchical-Clustering </h3>
+<h3>Project 13: RandomForest-Classifier</h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
@@ -233,7 +230,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/Muhammadbinali939/Hierarchical-Clustering">Link to the project repository</a>
+  <a href="https://github.com/Muhammadbinali939/RandomForest-Classifier">Link to the project repository</a>
 </p>
 
 <!-- Project 14 -->
@@ -252,7 +249,7 @@
 </p>
 
 <!-- Project 15 -->
-<h3>Project 15: RandomForest-Classifier</h3>
+<h3>Project 15: KMeans-Clustering</h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
@@ -263,11 +260,11 @@
 </p>
 
 <p>
-  <a href="https://github.com/Muhammadbinali939/RandomForest-Classifier">Link to the project repository</a>
+  <a href="https://github.com/Muhammadbinali939/KMeans-Clustering">Link to the project repository</a>
 </p>
 
-<!-- Project 16 -->
-<h3>Project 16: DecisionTree-Classifier</h3>
+<!-- Project 16-->
+<h3>Project 16: Hierarchical-Clustering </h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
@@ -278,11 +275,11 @@
 </p>
 
 <p>
-  <a href="https://github.com/Muhammadbinali939/DecisionTree-Classifier">Link to the project repository</a>
+  <a href="https://github.com/Muhammadbinali939/Hierarchical-Clustering">Link to the project repository</a>
 </p>
 
 <!-- Project 17 -->
-<h3>Project 17: Support-Vector-Machine-SVM</h3>
+<h3>Project 17: Time-Series</h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
@@ -293,11 +290,11 @@
 </p>
 
 <p>
-  <a href="https://github.com/Muhammadbinali939/Support-Vector-Machine-SVM">Link to the project repository</a>
+  <a href="https://github.com/Muhammadbinali939/Time-Series">Link to the project repository</a>
 </p>
 
 <!-- Project 18 -->
-<h3>Project 18: Naive-Bayes</h3>
+<h3>Project 18: Time-Series-on-sales-dataset</h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
@@ -308,11 +305,12 @@
 </p>
 
 <p>
-  <a href="https://github.com/Muhammadbinali939/Naive-Bayes">Link to the project repository</a>
+  <a href="https://github.com/Muhammadbinali939/Time-Series2">Link to the project repository</a>
 </p>
+
 
 <!-- Project 19 -->
-<h3>Project 19: Logistic-Regression</h3>
+<h3>Project 19: Recomendation-System</h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
@@ -323,8 +321,10 @@
 </p>
 
 <p>
-  <a href="https://github.com/Muhammadbinali939/Logistic-Regression">Link to the project repository</a>
+  <a href="https://github.com/Muhammadbinali939/Recommendation-System">Link to the project repository</a>
 </p>
+
+
 
 
 
