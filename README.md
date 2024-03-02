@@ -1,7 +1,7 @@
 # WELCOME TO MY PROFILE 
 
 <!-- Header Section -->
-<h1 align="center">Hi there, I'm Muhammad Bin Ali 👋</h1>
+<h1 align="center">Hi there, I'm Muhammad Bin Ali (cse)👋</h1>
 
 <p align="center">
   <img src="https://github.com/Muhammadbinali939" alt="Your Profile Image" width="200"/>
