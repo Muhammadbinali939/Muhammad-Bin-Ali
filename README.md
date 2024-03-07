@@ -159,6 +159,68 @@
 
 <h2>Machine Learning Projects</h2>
 
+
+<!-- Project 9 -->
+<h3>Project 9: Time-Series-on-sales-dataset</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/Time-Series2">Link to the project repository</a>
+</p>
+
+<!-- Project 10 -->
+<h3>Project 10: Time-Series-on-sales-dataset</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/Time-Series2">Link to the project repository</a>
+</p>
+
+<!-- Project 11 -->
+<h3>Project 11: Time-Series-on-sales-dataset</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/Time-Series2">Link to the project repository</a>
+</p>
+
+<!-- Project 12 -->
+<h3>Project 12: Time-Series-on-sales-dataset</h3>
+
+<p>
+  <strong>Description:</strong> Brief description of the project.
+</p>
+
+<p>
+  <strong>Technologies:</strong> Python, TensorFlow, AWS
+</p>
+
+<p>
+  <a href="https://github.com/Muhammadbinali939/Time-Series2">Link to the project repository</a>
+</p>
+
+
 <!-- Project 9 -->
 <h3>Project 9: Logistic-Regression</h3>
 
