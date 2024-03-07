@@ -96,7 +96,7 @@
 
 
 <!-- Project 5 -->
-<h3>Project 5:ANN-Regression</h3>
+<h3>Project 5: ANN-Regression</h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
@@ -176,7 +176,7 @@
 </p>
 
 <!-- Project 10 -->
-<h3>Project 10:Polynomial-Regression</h3>
+<h3>Project 10: Polynomial-Regression</h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
