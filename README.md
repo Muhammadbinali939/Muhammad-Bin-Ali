@@ -161,7 +161,7 @@
 
 
 <!-- Project 9 -->
-<h3>Project 9: Time-Series-on-sales-dataset</h3>
+<h3>Project 9: Linear-Regression(Simple/Multiple)</h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
@@ -172,11 +172,11 @@
 </p>
 
 <p>
-  <a href="https://github.com/Muhammadbinali939/Time-Series2">Link to the project repository</a>
+  <a href="https://github.com/Muhammadbinali939/Linear-Regression">Link to the project repository</a>
 </p>
 
 <!-- Project 10 -->
-<h3>Project 10: Time-Series-on-sales-dataset</h3>
+<h3>Project 10:Polynomial-Regression</h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
@@ -187,11 +187,11 @@
 </p>
 
 <p>
-  <a href="https://github.com/Muhammadbinali939/Time-Series2">Link to the project repository</a>
+  <a href="https://github.com/Muhammadbinali939/Polynomial-Regression">Link to the project repository</a>
 </p>
 
 <!-- Project 11 -->
-<h3>Project 11: Time-Series-on-sales-dataset</h3>
+<h3>Project 11: Regularization-Techniques</h3>
 
 <p>
   <strong>Description:</strong> Brief description of the project.
@@ -202,22 +202,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/Muhammadbinali939/Time-Series2">Link to the project repository</a>
-</p>
-
-<!-- Project 12 -->
-<h3>Project 12: Time-Series-on-sales-dataset</h3>
-
-<p>
-  <strong>Description:</strong> Brief description of the project.
-</p>
-
-<p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
-</p>
-
-<p>
-  <a href="https://github.com/Muhammadbinali939/Time-Series2">Link to the project repository</a>
+  <a href="https://github.com/Muhammadbinali939/Regularization-Techniques-">Link to the project repository</a>
 </p>
 
 
