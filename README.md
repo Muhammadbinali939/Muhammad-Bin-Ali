@@ -126,11 +126,11 @@
 <h3>Project 6: ANN-Classification</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code is a Python script that demonstrates building, training, and evaluating a neural network model for the Iris dataset classification problem.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, Pandas, Numpy, Scikit-Learn, Tensorflow, Keras, LiveLossPlot,Matplotlib
 </p>
 
 <p>
@@ -141,11 +141,11 @@
 <h3>Project 7: CNN-Model</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> The code builds a CNN model for binary image classification (predicting 'kohli' or 'dhoni' based on images) using Keras with TensorFlow backend. It includes convolutional layers, pooling layers, dropout layers, regularization, and data augmentation techniques. The model is trained and evaluated on the provided dataset, and predictions are made on new images using the trained model.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> ImageDataGenerator, Conv2D, MaxPooling2D, Flatting, Dense, l2 Regularization, DroupOut, LiveLossPlot
 </p>
 
 <p>
@@ -156,11 +156,11 @@
 <h3>Project 8: LSTM-MODEL</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code demonstrates a typical workflow for building, training, and evaluating an LSTM model for a binary classification task using TensorFlow and Keras in Python.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, TensorFlow, Keras, Scikit-Learn, 
 </p>
 
 <p>
@@ -176,11 +176,17 @@
 <h3>Project 9: Linear-Regression(Simple/Multiple)</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code demonstrates a typical workflow for performing linear regression analysis on advertising data to predict sales using Python and scikit-learn.
+
+
+
+
+
+.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, Scikit-Learn, Seaborn, Pandas, Numpy
 </p>
 
 <p>
@@ -191,11 +197,11 @@
 <h3>Project 10: Polynomial-Regression</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code is a Python script that performs polynomial regression analysis on advertising data using the scikit-learn library.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, Scikit-Learn, Seaborn, Pandas, Numpy
 </p>
 
 <p>
@@ -206,11 +212,11 @@
 <h3>Project 11: Regularization-Techniques</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code performs regression analysis on the extended Boston housing dataset using various regression techniques including Linear Regression, Ridge Regression, Lasso Regression, and Elastic Net.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, Scikit-Learn, Seaborn, Pandas, Numpy
 </p>
 
 <p>
@@ -222,11 +228,11 @@
 <h3>Project 9: Logistic-Regression</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code demonstrates the process of building and evaluating a logistic regression model for predicting survival outcomes on the Titanic dataset, along with data preprocessing and visualization techniques.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, Scikit-Learn, Seaborn, Pandas, Numpy
 </p>
 
 <p>
@@ -237,11 +243,11 @@
 <h3>Project 10: Naive-Bayes</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code performs classification on a bank dataset to predict whether a client will subscribe to a term deposit (deposit column).
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, Scikit-Learn, Seaborn, Pandas, Numpy
 </p>
 
 <p>
@@ -252,11 +258,11 @@
 <h3>Project 11: Support-Vector-Machine-SVM</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code performs a classification task on the "Voice Data Set" using Support Vector Machine (SVM) classifier, including data loading, preprocessing, model training, evaluation, and hyperparameter tuning .
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, Scikit-Learn, Seaborn, Pandas, Numpy, StandardScaler, LaberlEncoding
 </p>
 
 <p>
@@ -266,11 +272,11 @@
 <h3>Project 12: DecisionTree-Classifier</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> The code demonstrates the process of training a Decision Tree Classifier model on a bank dataset, tuning its hyperparameters, and evaluating its performance using various metrics.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, Scikit-Learn, Seaborn, Pandas, Numpy, DecisionTreeClassifier
 </p>
 
 <p>
@@ -281,11 +287,11 @@
 <h3>Project 13: RandomForest-Classifier</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> the code demonstrates the implementation and evaluation of various classification algorithms and techniques for improving model performance on a bank dataset.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, Scikit-Learn, Seaborn, Pandas, Numpy, RandomForestClassifier, BaggingClassifier, VootingClassifier, EnsembelLearning
 </p>
 
 <p>
@@ -296,11 +302,11 @@
 <h3>Project 14: Boosting-Classifier</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code demonstrates the implementation and evaluation of boosting classifiers (AdaBoost, GradientBoosting, XGBoost) on a bank dataset, along with hyperparameter tuning to improve model performance.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, Scikit-Learn, Seaborn, Pandas, Numpy, EnsembelLearning, AdaBoostClassifier, GradientBoostingClassifier, XGBoost
 </p>
 
 <p>
@@ -311,11 +317,11 @@
 <h3>Project 15: KMeans-Clustering</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code demonstrates the process of clustering driver data using KMeans algorithm, determining the optimal number of clusters, and visualizing the clusters for analysis.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, Scikit-Learn, Seaborn, Pandas, Numpy, KMeansClustering
 </p>
 
 <p>
@@ -326,11 +332,11 @@
 <h3>Project 16: Hierarchical-Clustering </h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong>  This code demonstrates the process of hierarchical clustering on customer data, visualizing the clusters, and evaluating the clustering quality using silhouette scores.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, Scikit-Learn, Seaborn, Pandas, Numpy, AgglomerativeClustering
 </p>
 
 <p>
@@ -341,11 +347,11 @@
 <h3>Project 17: Time-Series</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code is an example of time series analysis using the ARIMA (AutoRegressive Integrated Moving Average) model in Python.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, Scikit-Learn, Seaborn, Pandas, Numpy, ARIMA-Model
 </p>
 
 <p>
@@ -356,11 +362,11 @@
 <h3>Project 18: Time-Series-on-sales-dataset</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code demonstrates the process of time series analysis and forecasting using ARIMA modeling techniques, with visualizations to aid in understanding the data and model performance.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, Scikit-Learn, Seaborn, Pandas, Numpy, ARIMA-Model
 </p>
 
 <p>
@@ -372,11 +378,11 @@
 <h3>Project 19: Recomendation-System</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code  implements two types of recommendation systems: a popularity-based recommender system and a collaborative filtering-based recommender system
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, TensorFlow, AWS
+  <strong>Technologies:</strong> Python, Scikit-Learn, Seaborn, Pandas, Numpy
 </p>
 
 <p>
@@ -408,6 +414,10 @@
 
 <p>
   <strong>Computer Science Engineer, Osmania University, (2019-2023)</strong>
+</p>
+
+<p>
+  <strong>Masters Program in Data Science, Simplilearn, (2022-2023)</strong>
 </p>
 
 <!-- Certifications Section -->
