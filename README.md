@@ -111,7 +111,7 @@
 <h3>Project 5: ANN-Regression</h3>
 
 <p>
-  <strong>Description:</strong> This code is a Python script that demonstrates building, training, and evaluating a neural network model for the Iris dataset Regression problem.
+  <strong>Description:</strong> This code is a Python script that demonstrates building, training, and evaluating a neural network model for the Boston dataset Regression problem.
 </p>
 
 <p>
