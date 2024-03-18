@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm Muhammad Bin Ali (cse)👋</h1>
 
 <p align="center">
-  <img src="https://github.com/Muhammadbinali939" alt="Your Profile Image" width="200"/>
+  <img src="https://github.com/Muhammadbinali939/Image/blob/main/Muhammad%20Bin%20Ali.jpg" alt="Your Profile Image" width="200"/>
 </p>
 
 <p align="center">
