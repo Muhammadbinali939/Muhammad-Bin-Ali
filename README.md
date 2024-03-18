@@ -70,11 +70,11 @@
 <h3>Project 3: LangChain</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code demonstrates how to integrate the OpenAI API into a Streamlit application to create an interactive conversational interface for querying information about celebrities and retrieving related historical events. It showcases the use of prompt templates, conversation memory, and chaining mechanisms to manage the conversation flow effectively.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, scikit-learn, Tableau
+  <strong>Technologies:</strong> Streamlit, OpenAi-API, Prompt Templates, Conversational Memory, LLM-chains and Sequential-chians 
 </p>
 
 <p>
