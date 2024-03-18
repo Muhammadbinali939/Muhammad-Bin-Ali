@@ -85,11 +85,17 @@
 <h3>Project 4: Evidently-AI</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code demonstrates how to perform model training, evaluate model performance, and analyze data drift using the Evidently library in Python. It leverages various data manipulation and machine learning libraries to achieve these tasks and provides insights into the behavior of a bicycle demand prediction model over time.
+
+
+
+
+
+
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, scikit-learn, Tableau
+  <strong>Technologies:</strong> Evidently Library, Streamlit, Scikit-Learn, Datetime, Pandas and Numpy 
 </p>
 
 <p>
