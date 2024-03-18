@@ -111,11 +111,11 @@
 <h3>Project 5: ANN-Regression</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong> This code is a Python script that demonstrates building, training, and evaluating a neural network model for the Iris dataset Regression problem.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, scikit-learn, Tableau
+  <strong>Technologies:</strong> Python, Pandas, Numpy, Scikit-Learn, Tensorflow, Keras, LiveLossPlot,Matplotlib
 </p>
 
 <p>
