@@ -55,11 +55,11 @@
 <h3>Project 2: OpenAI-API</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong>  The code combines various tools and APIs to create a conversational AI system that can answer questions about the weather. It demonstrates how to interact with external APIs, handle user input, and generate responses using advanced language models like GPT-3.5.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, scikit-learn, Tableau
+  <strong>Technologies:</strong> Streamlit. OpenAI-API, Dotenv, Google-GenerativeAI
 </p>
 
 <p>
