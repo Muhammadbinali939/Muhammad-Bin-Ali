@@ -40,11 +40,11 @@
 <h3>Project 1: GOOGLE-GEMINI-MODEL</h3>
 
 <p>
-  <strong>Description:</strong> Brief description of the project.
+  <strong>Description:</strong>  This code demonstrates the use of Streamlit for building a simple Q&A chatbot application that leverages Google's Generative AI service to generate responses to user queries. It showcases the integration of external AI models into a Streamlit application, allowing for the development of interactive AI-powered applications with minimal effort.
 </p>
 
 <p>
-  <strong>Technologies:</strong> Python, scikit-learn, Tableau
+  <strong>Technologies:</strong> Streamlit, Dotenv, Google-GenerativeAI, Google_API-key
 </p>
 
 <p>
